@@ -29,12 +29,13 @@ The dataset used in this project is the **Heart Failure Prediction Dataset** fro
 The goal of this project is to develop a deep learning model that accurately predicts heart failure based on patient data. Various preprocessing techniques, data balancing methods, and model architectures were explored.
 
 ## Dependencies
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- tensorflow
+- keras
 
 ## Contact
 For any questions or contributions, feel free to reach out or submit an issue.
